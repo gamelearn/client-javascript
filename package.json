@@ -16,7 +16,7 @@
   "homepage": "https://github.com/reportportal/client-javascript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reportportal/client-javascript.git"
+    "url": "https://github.com/gamelearn/client-javascript.git"
   },
   "directories": {
     "lib": "./lib"
